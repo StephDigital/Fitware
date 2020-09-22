@@ -16,7 +16,7 @@ This web page uses HTML, CSS (grid, flexbox) and Javascript. It is also compatib
 
 ![Screenshot 6](screenshots/screenshot_6.png)
 
-![Screenshot 7](screenshots/screenshot_7.png)
+
 
 ## Download and Installation
 
