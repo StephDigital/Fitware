@@ -12,7 +12,7 @@ This web page uses HTML, CSS (grid, flexbox) and Javascript. It is also compatib
 
 ![Screenshot 4](screenshots/screenshot_4.png)
 
-![Screenshot 5a](screenshots/screenshot_5a.png)
+![Screenshot 5](screenshots/screenshot_5.png)
 
 ![Screenshot 6](screenshots/screenshot_6.png)
 
