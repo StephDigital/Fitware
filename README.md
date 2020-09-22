@@ -1,6 +1,6 @@
 # Fitware
 
-This landing page uses HTML, CSS (grid, flex), Javascript, and jQuery. It is also compatible with mobile devices using media queries. The Simplelightbox library offers an excellent presentation of the images (water bottles). This landing page is a multipurpose landing page template created by Stephane Andre.
+This web page uses HTML, CSS (grid, flexbox) and Javascript. It is also compatible with mobiles with media queries. This homepage is a versatile homepage template created by Stephane Andre.
 
 ## Preview
 
