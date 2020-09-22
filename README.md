@@ -22,8 +22,8 @@ This landing page uses HTML, CSS (grid, flex), Javascript, and jQuery. It is als
 
 To start using this template, choose one of the following options to get started:
 
-* Clone the repo: `git clone https://github.com/StephDigital/Water-Circles.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StephDigital/Water-Circles)
+* Clone the repo: `git clone https://github.com/StephDigital/Fitware.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StephDigital/Fitware)
 
 ## Usage
 
@@ -33,5 +33,5 @@ After downloading, edit HTML, CSS, and JavaScript with your text editor to make 
 
 ## License
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/StephDigital/Water-Circles/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/StephDigital/Fitware/blob/master/LICENSE)
 
